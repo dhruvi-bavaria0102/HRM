@@ -1,0 +1,12 @@
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\bin\Debug\netcoreapp3.1\HRM.Data.deps.json
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\bin\Debug\netcoreapp3.1\HRM.Data.runtimeconfig.json
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\bin\Debug\netcoreapp3.1\HRM.Data.runtimeconfig.dev.json
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\bin\Debug\netcoreapp3.1\HRM.Data.dll
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\bin\Debug\netcoreapp3.1\HRM.Data.pdb
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.csprojAssemblyReference.cache
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.AssemblyInfoInputs.cache
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.AssemblyInfo.cs
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.csproj.CoreCompileInputs.cache
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.dll
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.pdb
+D:\HumanResourceManager\HumanResourceManager\HRM.Data\obj\Debug\netcoreapp3.1\HRM.Data.genruntimeconfig.cache
